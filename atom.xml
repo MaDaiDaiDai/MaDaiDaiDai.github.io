@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MaDaiDaiDai.github.io</id>
     <title>朱涵-作品集</title>
-    <updated>2020-05-06T08:57:33.795Z</updated>
+    <updated>2020-05-07T01:39:37.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://MaDaiDaiDai.github.io"/>
     <link rel="self" href="https://MaDaiDaiDai.github.io/atom.xml"/>
@@ -32,9 +32,9 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>王的网-原纸商城小程序是一款售卖工业原纸的小程序。基于传统行业求变的特质从线下购买转变为线上即可采购。</p>
 <!-- more -->
-<h1 id="介绍">介绍</h1>
+<h1 id="图片">图片</h1>
 <p>目前这是最初版的小程序，还在不断更新迭代中。（目前只有合作客户才可以通过账号密码进入小程序）</p>
-<figure data-type="image" tabindex="1"><img src="https://MaDaiDaiDai.github.io/post-images/1588752953251.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://MaDaiDaiDai.github.io/post-images/1588815568161.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
