@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MaDaiDaiDai.github.io</id>
     <title>朱涵-作品集</title>
-    <updated>2020-05-07T02:11:33.508Z</updated>
+    <updated>2020-05-07T02:19:31.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://MaDaiDaiDai.github.io"/>
     <link rel="self" href="https://MaDaiDaiDai.github.io/atom.xml"/>
@@ -16,15 +16,23 @@
         <link href="https://MaDaiDaiDai.github.io/post/1111/">
         </link>
         <updated>2020-05-06T08:17:41.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="lottiefiles.com/LongAotian">Lottie动画地址</a></p>
+        <summary type="html"><![CDATA[<hr>
+<p>Lottie动画地址<a href="https://lottiefiles.com/LongAotian">https://lottiefiles.com/LongAotian</a></p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><a href="lottiefiles.com/LongAotian">Lottie动画地址</a></p>
+        <content type="html"><![CDATA[<hr>
+<p>Lottie动画地址<a href="https://lottiefiles.com/LongAotian">https://lottiefiles.com/LongAotian</a></p>
 <!-- more -->
+<hr>
 <figure data-type="image" tabindex="1"><img src="https://MaDaiDaiDai.github.io/post-images/1588815917474.gif" alt="" loading="lazy"></figure>
+<hr>
 <figure data-type="image" tabindex="2"><img src="https://MaDaiDaiDai.github.io/post-images/1588815937167.gif" alt="" loading="lazy"></figure>
+<hr>
 <figure data-type="image" tabindex="3"><img src="https://MaDaiDaiDai.github.io/post-images/1588815950145.gif" alt="" loading="lazy"></figure>
+<hr>
 <figure data-type="image" tabindex="4"><img src="https://MaDaiDaiDai.github.io/post-images/1588816037182.gif" alt="" loading="lazy"></figure>
+<hr>
 <figure data-type="image" tabindex="5"><img src="https://MaDaiDaiDai.github.io/post-images/1588816046105.gif" alt="" loading="lazy"></figure>
+<hr>
 <figure data-type="image" tabindex="6"><img src="https://MaDaiDaiDai.github.io/post-images/1588816057583.gif" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
@@ -34,12 +42,17 @@
         <link href="https://MaDaiDaiDai.github.io/post/wang-de-wang-yuan-zhi-shang-cheng-xiao-cheng-xu-v106/">
         </link>
         <updated>2019-09-18T08:15:02.000Z</updated>
-        <summary type="html"><![CDATA[<p>王的网-原纸商城小程序是一款售卖工业原纸的小程序。基于传统行业求变的特质从线下购买转变为线上即可采购。</p>
+        <summary type="html"><![CDATA[<hr>
+<p>王的网-原纸商城小程序是一款售卖工业原纸的小程序。基于传统行业求变的特质从线下购买转变为线上即可采购。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>王的网-原纸商城小程序是一款售卖工业原纸的小程序。基于传统行业求变的特质从线下购买转变为线上即可采购。</p>
+        <content type="html"><![CDATA[<hr>
+<p>王的网-原纸商城小程序是一款售卖工业原纸的小程序。基于传统行业求变的特质从线下购买转变为线上即可采购。</p>
 <!-- more -->
+<hr>
 <h1 id="图片">图片</h1>
+<hr>
 <p>目前这是最初版的小程序，还在不断更新迭代中。（目前只有合作客户才可以通过账号密码进入小程序）</p>
+<hr>
 <figure data-type="image" tabindex="1"><img src="https://MaDaiDaiDai.github.io/post-images/1588815568161.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
