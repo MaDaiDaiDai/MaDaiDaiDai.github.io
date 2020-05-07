@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MaDaiDaiDai.github.io</id>
     <title>朱涵-作品集</title>
-    <updated>2020-05-07T02:08:40.915Z</updated>
+    <updated>2020-05-07T02:11:33.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://MaDaiDaiDai.github.io"/>
     <link rel="self" href="https://MaDaiDaiDai.github.io/atom.xml"/>
@@ -16,9 +16,9 @@
         <link href="https://MaDaiDaiDai.github.io/post/1111/">
         </link>
         <updated>2020-05-06T08:17:41.000Z</updated>
-        <summary type="html"><![CDATA[<p>动画地址：lottiefiles.com/LongAotian</p>
+        <summary type="html"><![CDATA[<p><a href="lottiefiles.com/LongAotian">Lottie动画地址</a></p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>动画地址：lottiefiles.com/LongAotian</p>
+        <content type="html"><![CDATA[<p><a href="lottiefiles.com/LongAotian">Lottie动画地址</a></p>
 <!-- more -->
 <figure data-type="image" tabindex="1"><img src="https://MaDaiDaiDai.github.io/post-images/1588815917474.gif" alt="" loading="lazy"></figure>
 <figure data-type="image" tabindex="2"><img src="https://MaDaiDaiDai.github.io/post-images/1588815937167.gif" alt="" loading="lazy"></figure>
